@@ -27,7 +27,7 @@
     - pfavaro
 
 - id: mirage
-  title: "Multi-View Unsupervised Image Generation with Cross Attention Guidance"
+  title: "MIRAGE: Unsupervised Single Image to Novel View Generation with Cross Attention Guidance"
   venue: ICCVW, 2025
   description: "Single image to novel view synthesis without any supervision."
   arxiv: 2312.04337
