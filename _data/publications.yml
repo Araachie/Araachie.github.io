@@ -17,7 +17,7 @@
 
 - id: koalapp
   title: "KOALA++: Efficient Kalman-Based Optimization of Neural Networks with Gradient-Covariance Products"
-  venue: arXiv, 2025
+  venue: NeurIPS, 2025
   description: "An extension of KOALA, a neural network optimization algorithm based on Kalman filtering, with implicit full weights covariance matrix."
   arxiv: 2506.04432
   image: koalapp.png
