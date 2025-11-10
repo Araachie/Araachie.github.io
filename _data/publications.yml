@@ -1,3 +1,18 @@
+- id: reth
+  title: "Rethinking Visual Intelligence: Insights from Video Pretraining"
+  venue: arXiv, 2025
+  description: "The second version of the Gen2Gen paper, in which we demonstrate that VDMs are more data efficient than LLMs in learning new visual tasks."
+  arxiv: "2510.24448"
+  image: reth.png
+  authors:
+    - pacuaviva
+    - adavtyan
+    - Mariam Hassan
+    - sstapf
+    - Ahmad Rahimi
+    - Alexandre Alahi
+    - pfavaro
+
 - id: gen2gen
   title: "From Generation to Generalization: Emergent Few-Shot Learning in Video Diffusion Models"
   venue: arXiv, 2025
