@@ -1,3 +1,15 @@
+- id: come
+  title: "Composition of Memory Experts for Diffusion World Models"
+  venue: ICLR, 2026
+  description: "A diffusion-based world modeling framework that integrates heterogeneous memory models through a contrastive product-of-experts formulation."
+  image: come.gif
+  image_mouseover: come.mp4
+  authors:
+    - sstapf
+    - pacuaviva
+    - adavtyan
+    - pfavaro
+
 - id: reth
   title: "Rethinking Visual Intelligence: Insights from Video Pretraining"
   venue: arXiv, 2025
