@@ -11,6 +11,20 @@
     - adavtyan
     - pfavaro
 
+- id: vislang
+  title: "Learning Vision-Language Alignment in Unified LLMs with 24 Text Tokens per Image"
+  venue: IWSDS, 2026
+  description: "Unpaired image adaptation of a pre-trained language model followed by lightweight image–text alignment enables multimodal understanding while preserving language capabilities."
+  project_page: https://aclanthology.org/2026.iwsds-1.28/
+  image: vislang.jpg
+  authors:
+    - Nicola Irmiger
+    - Yixuan Xu
+    - Raphael Kreft
+    - adavtyan
+    - Manuel Kaufmann
+    - Imanol Schlag
+
 - id: reth
   title: "Rethinking Visual Intelligence: Insights from Video Pretraining"
   venue: arXiv, 2025
