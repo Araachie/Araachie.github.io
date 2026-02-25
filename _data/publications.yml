@@ -1,3 +1,20 @@
+- id: comit
+  title: "Communication-Inspired Tokenization for Structured Image Representations"
+  venue: arXiv, 2026
+  description: "A new way to represent images as discrete sequences of tokens by sequentially integrating information from image crops, yielding semantically meaningful structured representations."
+  project_page: https://araachie.github.io/comit/
+  arxiv: "2602.20731"
+  image: comit.png
+  image_mouseover: comit.gif
+  authors:
+    - adavtyan
+    - ysahin
+    - Yasaman Haghighi
+    - sstapf
+    - pacuaviva
+    - Alexandre Alahi
+    - pfavaro
+
 - id: come
   title: "Composition of Memory Experts for Diffusion World Models"
   venue: ICLR, 2026
