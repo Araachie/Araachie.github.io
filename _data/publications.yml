@@ -1,3 +1,18 @@
+- id: wmsd
+  title: "World Model Self-Distillation: Training World Models to Solve General Tasks"
+  venue: arXiv, 2026
+  description: "A new way to train task-solving video world models without paired demonstrations."
+  project_page: https://sebastian-stapf.github.io/world-model-self-distillation/
+  github: sebastian-stapf/world-model-self-distillation
+  arxiv: "2606.12072"
+  image: wmsd.png
+  image_mouseover: wmsd.mp4
+  authors:
+    - sstapf
+    - pacuaviva
+    - adavtyan
+    - pfavaro
+
 - id: comit
   title: "Communication-Inspired Tokenization for Structured Image Representations"
   venue: arXiv, 2026
