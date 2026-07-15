@@ -22,16 +22,17 @@ title: Aram Davtyan
 name: Aram Davtyan
 position: Postdoctoral Researcher
 email: aram.davtyan@unibe.ch
+tagline: "Postdoctoral researcher in generative AI, computer vision, controllable generation, and world models."
 description: >-
-  I am a Postdoctoral Researcher in the [Computer Vision Group](https://cvg.unibe.ch) at the [University of Bern](https://unibe.ch). I earned my Ph.D. in Computer Science from the [University of Bern](https://unibe.ch) in 2024, where I was supervised by [Prof. Dr. Paolo Favaro](https://cvg.unibe.ch/people/favaro).
-  Prior to that, I completed a Specialist degree (equivalent to B.S. + M.S.) in Fundamental Mathematics and Mechanics at [MSU](https://msu.ru/en/) in 2020. 
-  Additionally, I graduated from [YSDA](https://dataschool.yandex.com/) in 2018. My research interests include Machine Learning, Computer Vision, Generative AI, and World Models.
+  I am a Postdoctoral Researcher in the [Computer Vision Group](https://cvg.unibe.ch) at the [University of Bern](https://unibe.ch), working on generative AI, controllable video generation, and world models. I am especially interested in models that learn reusable world representations from the visual experience, going beyond plausible synthesis to support couterfactual intervention, generalization, visual intelligence, adaptation to new tasks, and beyond.
+
+  I earned my Ph.D. in Computer Science from the University of Bern in 2024, advised by [Prof. Dr. Paolo Favaro](https://cvg.unibe.ch/people/favaro). Before that, I completed a Specialist degree in Fundamental Mathematics and Mechanics at [Lomonosov Moscow State University](https://msu.ru/en/) and studied data analysis at [YSDA](https://dataschool.yandex.com/).
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://araachie.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: AraachieA
 github_username: Araachie
 google_scholar: 5YfxOK4AAAAJ
-last_updated: May 1, 2026
+last_updated: July 15, 2026
 
 # Build settings
 theme: minima
@@ -39,6 +40,7 @@ plugins:
   - jekyll-feed
 
 sass:
+  sass_dir: _sass
   style: compact
 
 # Exclude from processing.

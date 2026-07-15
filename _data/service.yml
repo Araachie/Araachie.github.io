@@ -1,0 +1,10 @@
+# Add program committee, area chair, reviewing, workshop organization,
+# or other academic service entries here when you want them to appear.
+#
+# - date: 2026
+#   role: Program Committee
+#   venue: Conference Name
+
+- date:
+  role: Reviewer
+  venue: ICLR, ICML, CVPR, NeurIPS, ICCV, ECCV

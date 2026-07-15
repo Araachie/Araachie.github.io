@@ -1,0 +1,29 @@
+- date: Spring 2026
+  role: Lecturer
+  course: "Seminar Machine Learning and Artificial Intelligence"
+  institution: "University of Bern"
+
+- date: Fall 2025
+  role: Lecturer
+  course: "Foundations of Deep Learning"
+  institution: "University of Bern"
+
+- date: 2023-2025
+  role: Teaching Assistant
+  course: "Deep Learning"
+  institution: "University of Bern"
+
+- date: 2020-2024
+  role: Teaching Assistant
+  course: "Machine Learning"
+  institution: "University of Bern"
+
+- date: Fall 2021
+  role: Teaching Assistant
+  course: "Seminar Self-Supervised Learning in Computer Vision"
+  institution: "YSDA"
+
+- date: Spring 2021
+  role: Teaching Assistant
+  course: "Advanced Topics in Machine Learning"
+  institution: "University of Bern"
