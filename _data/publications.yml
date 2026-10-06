@@ -8,6 +8,19 @@
 #   project_page: "https://example.com"
 #   github: owner/repo
 
+- id: disco
+  title: "Emergent Specialization in Populations of Self-Supervised Collaborative Vision Experts Without a Shared Gate or Cross-Agent Gradients"
+  venue: arXiv, 2026
+  description: "DISCO (DIStributed COllaboration): a population of independent vision agents that develops a division of labor across visual domains through peer collaboration, without a shared gate or gradients between agents."
+  arxiv: "2609.36770"
+  image: disco.png
+  image_mouseover: disco.mp4
+  authors:
+    - adavtyan
+    - pacuaviva
+    - sstapf
+    - pfavaro
+
 - id: wmsd
   title: "World Model Self-Distillation: Training World Models to Solve General Tasks"
   venue: arXiv, 2026
